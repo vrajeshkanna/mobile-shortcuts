@@ -1,0 +1,21 @@
+{
+    "name": "Shortcuts",
+    "short_name": "Shortcuts",
+    "icons": [
+        {
+          "src": "https://dummyimage.com/512/ffffff/00d1b2&text=Shortcuts",
+          "type": "image/png",
+          "sizes": "192x192"
+        }, 
+        {
+          "src": "https://dummyimage.com/512/ffffff/00d1b2&text=Shortcuts",
+          "type": "image/png",
+          "sizes": "512x512"
+        } 
+        ],
+    "start_url": "/shortcuts/",
+    "scope": "/shortcuts/",
+    "background_color": "#00d1b2",
+    "theme_color": "#00d1b2",
+    "display": "standalone"
+  }
